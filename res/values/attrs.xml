@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Gallery1">
+        <attr name="android:galleryItemBackground" />
+    </declare-styleable>
+    <declare-styleable name="OutlinedTextView">
+    </declare-styleable>
+    
+    <declare-styleable name="TagList">
+    	<attr name="taglist_type">
+    		<enum name="full" value="0" />
+    		<enum name="selector" value="1" />
+    	</attr>
+    </declare-styleable>
+    
+    <declare-styleable name="PointerShadow">
+    	<attr name="orientation">
+    		<enum name="top" value="0" />
+    		<enum name="right" value="1" />
+    	</attr>
+    </declare-styleable>
+    <item  type="id" name="viewtag_item_position" />
+    <item  type="id" name="viewtag_item_adapter" />
+</resources>

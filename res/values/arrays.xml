@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="privacy">
+		<item>Public</item>
+		<item>Private</item>
+	</string-array>
+	
+	<string-array name="locast_sites">
+		<item>Abruzzo</item>
+		<item>Abruzzo Dev</item>
+	</string-array>
+	
+	<string-array name="locast_urls" translatable="false">
+		<item>http://www.railocal.rai.it/api/</item>
+		<item>http://mel-pydev.mit.edu/tourism/api/</item>
+	</string-array>
+</resources>
